@@ -1,0 +1,5 @@
+/home/jovyan/term-project-jjjohnywaffles/build/CMakeFiles/run_tests.dir
+/home/jovyan/term-project-jjjohnywaffles/build/CMakeFiles/run_app_1.dir
+/home/jovyan/term-project-jjjohnywaffles/build/CMakeFiles/test.dir
+/home/jovyan/term-project-jjjohnywaffles/build/CMakeFiles/edit_cache.dir
+/home/jovyan/term-project-jjjohnywaffles/build/CMakeFiles/rebuild_cache.dir

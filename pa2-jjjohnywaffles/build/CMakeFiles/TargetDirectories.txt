@@ -1,0 +1,5 @@
+/home/jovyan/pa2-jjjohnywaffles/build/CMakeFiles/run_tests.dir
+/home/jovyan/pa2-jjjohnywaffles/build/CMakeFiles/run_app.dir
+/home/jovyan/pa2-jjjohnywaffles/build/CMakeFiles/test.dir
+/home/jovyan/pa2-jjjohnywaffles/build/CMakeFiles/edit_cache.dir
+/home/jovyan/pa2-jjjohnywaffles/build/CMakeFiles/rebuild_cache.dir
